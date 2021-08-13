@@ -1,0 +1,15 @@
+{
+    "name": "kozlovsky/chess",
+    "autoload": {
+        "psr-4": {
+            "Kozlovsky\\Chess\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kozlovskee",
+            "email": "iharview@gmail.com"
+        }
+    ],
+    "require": {}
+}
