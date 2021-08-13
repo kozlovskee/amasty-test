@@ -1,0 +1,12 @@
+body {
+  margin-top: 100px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+span {
+  font-size: 25px;
+}
